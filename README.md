@@ -1,0 +1,4 @@
+# BiasVariance
+
+Machine learning has become an important tool to accelerate the process of creating new useful materials. Machine learning is essentially an empirical process, where evaluation has a crucial role.  Although . We analyze more specifically the two components of Mean Squared Error (MSE): Bias and Variance. Using three state-of-the-art descriptors (MBTR, SF and SOAP), we evaluated the prediction process's performance using different numbers of molecules in training samples and the effect of bias and variance on the final MSE. This article shows Bias's high influence on the MSE and that the MBTR was the more performative descriptor throughout the process. According to the results obtained with the distribution of the error and the influence of outliers, suggests the use of ensembles to minimize it, more specifically when using small amounts of molecules in the training sample.
+
